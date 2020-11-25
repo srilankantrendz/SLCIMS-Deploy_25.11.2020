@@ -1,0 +1,66 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "axios@0.21.0",
+      "destination": "wwwroot/lib/axios/",
+      "files": [
+        "axios.min.js"
+      ]
+    },
+    {
+      "library": "datatables.net-bs4@1.10.22",
+      "destination": "wwwroot/lib/datatables.net-bs4/",
+      "files": [
+        "dataTables.bootstrap4.min.js",
+        "dataTables.bootstrap4.css"
+      ]
+    },
+    {
+      "library": "datatables.net-responsive-bs@2.2.6",
+      "destination": "wwwroot/lib/datatables.net-responsive-bs/",
+      "files": [
+        "responsive.bootstrap.min.js",
+        "responsive.bootstrap.min.css"
+      ]
+    },
+    {
+      "library": "datatables.net@1.10.22",
+      "destination": "wwwroot/lib/datatables.net/",
+      "files": [
+        "jquery.dataTables.min.js",
+        "jquery.dataTables.js"
+      ]
+    },
+    {
+      "library": "datepicker@1.0.10",
+      "destination": "wwwroot/lib/datepicker/",
+      "files": [
+        "datepicker.min.js"
+      ]
+    },
+    {
+      "library": "vue-select@3.10.8",
+      "destination": "wwwroot/lib/vue-select/",
+      "files": [
+        "vue-select.js",
+        "vue-select.css"
+      ]
+    },
+    {
+      "library": "fuse.js@6.4.3",
+      "destination": "wwwroot/lib/fuse.js/",
+      "files": [
+        "fuse.js"
+      ]
+    },
+    {
+      "library": "bootstrap-3-typeahead@4.0.2",
+      "destination": "wwwroot/lib/bootstrap-3-typeahead/",
+      "files": [
+        "bootstrap3-typeahead.js"
+      ]
+    }
+  ]
+}
